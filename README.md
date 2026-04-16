@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 Currently working as a **Full Stack Developer Intern**<br>- 💡 Passionate about building **real-world, scalable applications**<br>- ⚡ Strong in **React, Node.js, MongoDB, TypeScript**<br>- 📈 Focused on **performance optimization & clean architecture**<br>- 🤝 Love collaborating in teams & contributing to impactful projects<br>-🎯 Open for Challenging Roles<br><br>⭐ *“I build fast, scalable, and user-focused web applications.”*
+<br>- 🔭 Currently working as a **Full Stack Developer Intern**<br>- 💡 Passionate about building **real-world, scalable applications**<br>- ⚡ Strong in **React, Node.js, MongoDB, TypeScript, NextJS, MySQL**<br>- 📈 Focused on **performance optimization & clean architecture**<br>- 🤝 Love collaborating in teams & contributing to impactful projects<br>-🎯 Open for Challenging Roles<br><br>⭐ *“I build fast, scalable, and user-focused web applications.”*
 
 
 ## 🌐 Socials:

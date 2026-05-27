@@ -1,8 +1,37 @@
-# 💫 About Me:
-## Hi, I'm Bhawana 👋<br><br>I'm a **Full Stack Developer** based in India, currently building fintech products<br>at **Summer Atlantic Capital (Hong Kong)** and obsessing over clean, scalable code.<br><br>I don't chase trends — I learn fundamentals deeply and apply them fast.<br>That's how I went from zero to shipping real-world products across 3 industries<br>in under a year: fintech, ed-tech, and freelance marketplaces.<br><br>### 🔨 What I'm working with<br>```js<br>const bhawana = {<br>  current:   "Full Stack Dev Intern @ Summer Atlantic Capital",<br>  stack:     ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "Redis", "Docker"],<br>  building:  ["SkillSphere", "NatureMind", "AI-powered dashboards"],<br>  learning:  ["System Design", "DSA", "Microservices"],<br>  contact:   "bhawana1205bisht1802@gmail.com"<br>}<br>```<br><br>### 🚀 What makes me different<br>- I ship. Not just side projects — live features used by real users.<br>- I measure. Every optimization I make has a number behind it.<br>- I collaborate. Agile sprints, Git workflows, QA cycles — I've done them all.<br><br>### 📌 Pinned below: My best work. Start with SkillSphere ↓
+# 💫 About Me
 
+I'm a **Full Stack Developer** who builds things that work in production —
+not just on localhost.
 
-## 🌐 Socials:
+I care about three things: performance, clean architecture, and shipping fast.
+Everything else is noise.
+
+---
+
+⚡ **What I build with:**
+→ **Frontend** — React.js · Next.js · TypeScript · Tailwind CSS
+→ **Backend** — Node.js · Express.js · REST APIs · Socket.io
+→ **Data** — MongoDB · PostgreSQL · MySQL · Redis · Firebase
+→ **DevOps** — Docker · Git · Vercel · Render · Prisma ORM
+
+---
+
+🔨 **What I've actually shipped:**
+- A full **freelance marketplace** with real-time chat & payment gateway integration
+- An **AI mental health journal** powered by Groq (Llama-3) with emotion analysis
+- A **real-time sustainability dashboard** with OpenAI chatbot & live analytics
+- 14+ **production UI components** with measurable performance improvements
+
+---
+
+📈 **Numbers that matter:**
+`25% fewer bugs` · `98% API uptime` · `20% faster response` · `15% less deploy time`
+
+---
+
+🎯 **Open to** → SDE · Full Stack · React / Node.js roles
+
+## 🌐 Reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bhawana_bisht_018?igsh=MWU4cmljMzZ5MWo0bQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhawana-bisht-5442582b3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhawana1205bisht1802@gmail.com) 
 
 # 💻 Tech Stack:

@@ -24,7 +24,7 @@
 
 ## 🎯 About Me
 
-<div align="left">
+<div align="center">
 
 I'm a **Full Stack Developer** who thrives at the intersection of **performance**, **clean architecture**, and **rapid delivery**. I specialize in building scalable web applications from concept to production deployment, with a focus on writing maintainable code that drives real business value.
 
